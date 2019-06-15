@@ -16,5 +16,10 @@ That problem occurs in every Linux-based operating system since years and it is 
 Add `bootstrap.sh` to your startup programs.
 For Ubuntu:  `bash -ic "sh bootstrap.sh"`
 
+
 *Tested on Ubuntu 14.10*<br />
 *Tested on Arch Linux (Plasma 5)*
+
+
+**Update for Ubuntu 19.04**
+Edit `Linux-CapsLock-Delay-Fixer.desktop` set the path correctly and copy to `~/.config/autostart/` to auto run 
