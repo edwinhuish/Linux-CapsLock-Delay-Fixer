@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Linux CapsLock Delay Fixer
+GenericName=Fix Linux CapsLock Delay BUG
+Comment=To fix CAps switch bug
+Exec=/home/edwin/Coding/Linux-CapsLock-Delay-Fixer/bootstrap.sh
+Terminal=false
+Type=Application
+X-GOME-Autostart-enabled=true
